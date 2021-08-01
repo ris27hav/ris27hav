@@ -23,3 +23,18 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ris27hav&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ris27hav&theme=dark&hide_border=true" width = 400>
 </p>
+
+<p align="center">
+ <a href="mailto:ris27hav@gmail.com">
+ <img src="https://img.shields.io/badge/-Contact_Me-BC4E48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ris27hav@gmail.com" />
+ </a>
+ <a href="https://facebook.com/ris27hav">
+ <img src="https://img.shields.io/badge/-Facebook-116BBC?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/ris27hav" /> 
+ </a>
+ <a href="https://www.linkedin.com/in/rishav-bikarwar-a697781ba/">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishav-bikarwar-a697781ba/"  />
+ </a>
+ <a href="http://github.com/ris27hav">
+ <img src="https://img.shields.io/github/followers/ris27hav?label=follow&style=social" />
+ </a>
+</p>
