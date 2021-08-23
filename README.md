@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring everything (from ML to app dev to crypto)
 - 👯 I’m looking to collaborate with other deep learning geeks!
 - 🥅 2021 Goals: Contribute to Open Source projects and work on side projects.
-- ⚡ Fun fact: I love to watch and play cricket + football 🏆 and to play video games 🎮
+- ⚡ Fun fact: I love to watch and play cricket, football 🏆 and video games 🎮
 
 <br />
 
